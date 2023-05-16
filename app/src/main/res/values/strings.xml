@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Traveling</string>
+    <string name="escribe_historia">Escribe una historia</string>
+    <string name="enviar">ENVIAR</string>
+</resources>
